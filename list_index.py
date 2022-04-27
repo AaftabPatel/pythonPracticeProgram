@@ -1,0 +1,10 @@
+print("program for list indexing")
+name=input("please enter your name:")
+addr=input("please enter your address:")
+mob=input("please enter your mobile number:")
+email=input("please enter your email:")
+l=[name,addr,mob,email]
+print("name is:",l[0])
+print("address is:",l[1])
+print("mobile number is:",l[2])
+print("email is:",l[3])
