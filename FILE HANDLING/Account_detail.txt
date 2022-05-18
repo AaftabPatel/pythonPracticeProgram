@@ -1,1 +1,0 @@
-ac101	aaftab	savings	1216	10000	ac102	aman	deposite	2222	20000	ac103	mohit	savings	3333	30000	ac104	rahul	deposite	4444	40000	
